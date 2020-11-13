@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Cloudiar DevOps Project !!   </h1>
-<h2> We are great student </h2>
-<h2> Glad to see you here again and again</h2>
+<h1> Buddy Dog Walking mobile app </h1>
+<h2> Walking With Your Flurry Friends </h2>
+<h2> BUDDY is a GPS tracked dog walking platform that allows you to easily schedule on demand walks with safe and reliable walkers. BUDDY is available in DMV area.
+</h2>
